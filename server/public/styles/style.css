@@ -1,3 +1,31 @@
 .person{
-  display:none;
+  display: none;
+}
+
+.personTwo{
+  display:block
+}
+
+.headTop{
+  margin:0 auto;
+}
+
+.wheel{
+  width:400px;
+  height:20px;
+  border:2px solid black;
+}
+
+
+.pony{
+  float:left;
+  width:3.35%;
+  border:2px solid black;
+}
+
+.horse{
+  background-color: red;
+  float:left;
+  width:3.35%;
+  border:2px solid black;
 }
